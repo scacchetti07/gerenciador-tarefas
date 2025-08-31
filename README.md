@@ -26,3 +26,9 @@ O desenvolvimento deste projeto abordou os seguintes pilares do React e seu ecos
 * **React Router DOM:** Implementação de um sistema de rotas para criar uma experiência de SPA (Single Page Application).
 * **Estilização com Tailwind CSS:** Construção de uma interface moderna e responsiva utilizando classes utilitárias.
 * **Manipulação de Eventos:** Captura de interações do usuário, como cliques e digitação.
+
+## 🎓 Créditos
+
+Este projeto foi desenvolvido com base no excelente curso **React para Iniciantes**, ministrado por **Felipe Rocha**.
+
+[Link para o vídeo no YouTube](https://www.youtube.com/watch?v=2RWsLmu8yVc)
