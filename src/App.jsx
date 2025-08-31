@@ -76,6 +76,10 @@ function App() {
           onTaskClick={onTaskClick}
           onDeleteTaskClick={onDeleteTaskClick}
         />
+      <footer className="text-center text-slate-200 font-bold ">
+        <h5>Desenvolvido por: <a href="https://github.com/scacchetti07/" className="text-cyan-200 underline">Luís Scacchetti</a></h5>
+        <p>&copy;2025 Todos os direitos reservados</p>
+      </footer>
       </div>
     </div>
   );
